@@ -1,2 +1,3 @@
 # zip-extractor
-:rocket: Zip Extractor Using Python :books:
+
+Extracts Zip Files :)
